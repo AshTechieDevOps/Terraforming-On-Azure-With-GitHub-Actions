@@ -40,5 +40,3 @@ git checkout -B reindeer
 ## Create a new branch to fix a tag value
 
 ## Go through the process again
-
-
