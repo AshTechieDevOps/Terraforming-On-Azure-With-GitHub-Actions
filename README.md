@@ -1,2 +1,3 @@
-# Terraforming-with-GitHub-Actions
-GitHub repo for my Festive Tech Calendar entry
+# Terraforming-On-Azure-With-GitHub-Actions
+GitHub repo for Terraforming-On-Azure-With-GitHub-Actions
+
