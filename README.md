@@ -8,5 +8,5 @@ Regards,
 AshTechie
 
 email ashish@ashtechie.com
-https://ashtechie.com
-#@ashtechie777
+web https://ashtechie.com
+Tweets@ashtechie777
