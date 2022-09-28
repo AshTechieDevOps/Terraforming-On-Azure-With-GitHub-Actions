@@ -7,8 +7,6 @@ Regards,
 
 AshTechie
 
-Email ashish@ashtechie.com
-
-Web https://ashtechie.com
-
-Twitter @ashtechie777
+mail ashish@ashtechie.com
+https://ashtechie.com
+Tweets #@ashtechie777
